@@ -1,3 +1,4 @@
 ipyleaflet
 chart-studio
 cufflinks
+matplotlib
